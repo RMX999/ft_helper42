@@ -1,9 +1,13 @@
-# 1337
- My solutions for the June Piscine 2021. <br />
+# 42 Abu Dhabi
+
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/RMX999?label=Follow&style=social)](https://github.com/RMX999/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Aristocrat_OFF-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AristocratOFF)](https://twitter.com/AristocratOFF)
+and be a part of my journey... and See if I can make it or not!
+
+ My solutions for the November Piscine 2021. <br />
   Please open an issue on github if you find anything incorrect.<br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
  `Don't Copy, Learn.` <br />
- ![](https://komarev.com/ghpvc/?username=your-github-username&label=Repository+views)
+ ![](https://komarev.com/ghpvc/?username=rmx999&label=Repository+views)
 
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
@@ -31,7 +35,6 @@
 -try to improve your code skills and your algorithms. <br />
 ### **Week4:** C11 <br />
 -don't waste your time on rush02 and BSQ and C10, it's better to validate the previous days with 100% and prepare for the final exam. <br />
-for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/ <br />
 `SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS` <br />
  # Table of Content
 | Projects      | Solutions  |
